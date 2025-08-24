@@ -46,4 +46,4 @@ Este projeto implementa um sistema de previsão de leads baseado em dados de inv
 3. Executar todas as células sequencialmente
 
 ## Autor
-[Seu Nome] - IML1 - UFSCar 
+AECIO PEREIRA SANTIAGO JUNIOR - IML1 - UFSCar 

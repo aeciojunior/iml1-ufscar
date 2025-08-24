@@ -4,7 +4,7 @@
 IML1.1 - Previsão de Leads
 Análise completa para previsão de leads baseada em investimentos em marketing digital
 
-Autor: [Seu Nome] - IML1 - UFSCar
+Autor: AECIO PEREIRA SANTIAGO JUNIOR - IML1 - UFSCar
 Data: 2025
 """
 
