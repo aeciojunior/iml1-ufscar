@@ -167,28 +167,3 @@ Após executar a análise, você terá:
 4. **Análise de importância** das features
 5. **Sistema de previsão** funcionando
 6. **Exemplos práticos** de uso
-
-## 🎯 Próximos Passos
-
-1. **Implementar em produção** para previsões em tempo real
-2. **Criar dashboard** para monitoramento
-3. **Coletar mais dados** para melhorar a performance
-4. **Aplicar técnicas de otimização** para maximizar ROI
-
-## 📞 Suporte
-
-Se encontrar problemas:
-
-1. Verifique se todas as dependências estão instaladas
-2. Confirme que o arquivo CSV está na pasta correta
-3. Verifique a versão do Python (3.8+)
-4. Execute o script passo a passo para identificar onde está o erro
-
-## ✅ Checklist de Execução
-
-- [ ] Python 3.8+ instalado
-- [ ] Dependências instaladas (`pip install -r requirements.txt`)
-- [ ] Arquivo CSV na pasta correta
-- [ ] Script executado com sucesso
-- [ ] Resultados analisados
-- [ ] Modelo funcionando para previsões
